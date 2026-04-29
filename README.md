@@ -1,20 +1,40 @@
-# Gabriel Bfurin
+# Olá! Sou Gabriel Furin
 
-Welcome to my profile repository! This repository contains information about me and my projects. Feel free to explore the various sections to learn more about my work.
+Desenvolvedor em formação focado em **Back-End com Python**. Estudante de Ciência da Computação (1º período) na **FIAP**, cursando o programa "Desenvolvedor Back-End Python" da **Alura**.
 
-## About Me
-- Name: Gabriel Bfurin
-- GitHub: [gabrielbfurin](https://github.com/gabrielbfurin)
+## Sobre mim
 
-## Projects
-- Project 1: Description of project 1.
-- Project 2: Description of project 2.
-- Project 3: Description of project 3.
+Sou apaixonado por resolver problemas através da programação. Tenho experiência com desenvolvimento de sistemas modulares e estou em constante aprendizado, com foco em consolidar uma base sólida em Python antes de expandir para outras tecnologias.
 
-## Contact
-You can reach me via:
-- Email: gabrielbfurin@example.com
-- LinkedIn: [Gabriel Bfurin](https://www.linkedin.com/in/gabrielbfurin)
+## Skills Técnicas
 
-## Date Updated
-This README was last updated on 2026-04-29 20:34:52 UTC.
+**Linguagens e Conceitos:**
+- Python
+- Lógica de programação
+- Programação modular
+- Estruturas de dados (listas, dicionários)
+- Tratamento de erros (try/except)
+
+**Ferramentas:**
+- Git e GitHub
+- CLI
+
+## Projetos em Destaque
+
+### QFome
+Sistema CLI em Python para gerenciar restaurantes com arquitetura modular (ui, services, utils). Projeto que consolidou meus conhecimentos em modularização e organização de código.
+
+**Acesse:** [github.com/gabrielbfurin/qfome](https://github.com/gabrielbfurin/qfome)
+
+## Em Aprendizado
+
+- Aprofundando conceitos avançados de Python para Back-End
+- Próximos passos: Java e IA aplicada à programação
+
+## Entre em contato
+
+Sempre aberto para trocar conhecimentos, colaborar em projetos e aprender com a comunidade!
+
+---
+
+*Estudante | Desenvolvedor em Formação | Back-End com Python*
