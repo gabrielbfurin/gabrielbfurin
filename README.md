@@ -1,10 +1,10 @@
-# Olá! Sou Gabriel Furin
+# Hello World!
 
-Desenvolvedor em formação focado em **Back-End com Python**. Estudante de Ciência da Computação (1º período) na **FIAP**, cursando o programa "Desenvolvedor Back-End Python" da **Alura**.
+Desenvolvedor em formação focado em **Back-End com Python**. Estudante de Ciência da Computação na **FIAP**
 
 ## Sobre mim
 
-Sou apaixonado por resolver problemas através da programação. Tenho experiência com desenvolvimento de sistemas modulares e estou em constante aprendizado, com foco em consolidar uma base sólida em Python antes de expandir para outras tecnologias.
+Me chamo Gabriel Barbosa Furin, programo desde 2025 em Python e tenho grande interesse por IA.
 
 ## Skills Técnicas
 
@@ -33,7 +33,8 @@ Sistema CLI em Python para gerenciar restaurantes com arquitetura modular (ui, s
 
 ## Entre em contato
 
-Sempre aberto para trocar conhecimentos, colaborar em projetos e aprender com a comunidade!
+Email: gabrielbarbosafurin@outlook.com
+LinkedIn: www.linkedin.com/in/gabrielfurin
 
 ---
 
