@@ -33,8 +33,8 @@ Sistema CLI em Python para gerenciar restaurantes com arquitetura modular (ui, s
 
 ## Entre em contato
 
-Email: gabrielbarbosafurin@outlook.com
-LinkedIn: www.linkedin.com/in/gabrielfurin
+- Email: gabrielbarbosafurin@outlook.com
+- LinkedIn: www.linkedin.com/in/gabrielfurin
 
 ---
 
