@@ -52,43 +52,65 @@ Gosto de transformar problemas em soluções funcionais, passando pelo processo 
 
 ---
 
-## Projetos em destaque
+## Projetos de portfólio
 
-### HelpDesk — Sistema de gerenciamento de chamados
-**Python • POO • Arquitetura modular**
+### QFome
+**Python • Programação modular • CLI**
 
-Projeto em desenvolvimento que simula uma demanda real de software: a criação de um sistema interno para abertura, gerenciamento e acompanhamento de chamados.
+Aplicação de terminal para cadastro e gerenciamento de restaurantes, desenvolvida durante meus estudos de Python.
 
-O projeto está sendo construído de forma incremental, com foco em separação de responsabilidades, regras de negócio, organização de código e evolução para conceitos mais completos de Back-End.
+O projeto representa uma etapa importante da minha evolução em programação, principalmente em modularização, funções, validação de entradas e organização de código.
 
-**Status:** Em desenvolvimento.
-
----
-
-### Análise de Dados Energéticos — ONS
-**Python • Pandas • Requests • Jupyter Notebook • API**
-
-Projeto de análise de dados energéticos utilizando dados públicos do **Operador Nacional do Sistema Elétrico (ONS)**.
-
-A solução trabalha com coleta, tratamento e exploração de dados para gerar informações sobre o comportamento do sistema elétrico, combinando programação Python, análise de dados e consumo de fontes externas.
+**[Ver repositório](https://github.com/gabrielbfurin/Projeto-QFome-Alura)**
 
 ---
 
 ### Dashboard de Salários na Área de Dados
 **Python • Pandas • Streamlit • Plotly**
 
-Dashboard interativo desenvolvido para explorar dados salariais da área de tecnologia.
+Dashboard interativo para exploração de dados salariais da área de tecnologia, com filtros, indicadores e visualizações.
 
-A aplicação permite aplicar filtros, visualizar indicadores e analisar os dados por meio de gráficos e métricas interativas, além de possuir uma versão publicada para acesso online.
+Além do código disponível no GitHub, a aplicação possui uma versão publicada no Streamlit.
+
+**[Ver repositório](https://github.com/gabrielbfurin/imersao-alura-dados_python)**
 
 ---
 
-### QFome
-**Python • Programação modular • CLI**
+## Em desenvolvimento
 
-Aplicação inspirada em plataformas de delivery, desenvolvida em Python para praticar organização de código.
+### HelpDesk — Sistema de gerenciamento de chamados
+**Python • POO • Arquitetura modular**
 
-O projeto permite trabalhar com cadastro e gerenciamento de restaurantes e representa parte da minha evolução desde os primeiros projetos em Python até aplicações mais estruturadas.
+Projeto prático em desenvolvimento que simula uma demanda real de software: a construção de um sistema interno para abertura, gerenciamento e acompanhamento de chamados.
+
+Estou desenvolvendo o sistema de forma incremental, utilizando o projeto para aprofundar conceitos de Back-End, regras de negócio, organização de código e resolução de problemas.
+
+**Status:** Em desenvolvimento.
+
+**[Acompanhar projeto](https://github.com/gabrielbfurin/HelpDesk)**
+
+---
+
+## Projetos acadêmicos
+
+Durante a graduação em **Ciência da Computação na FIAP**, também desenvolvo projetos relacionados a diferentes áreas da computação, como análise de dados, arquitetura de computadores, IoT, lógica digital e sistemas energéticos.
+
+Entre eles está a **Análise de Dados Energéticos com dados do ONS**, desenvolvida com Python, Pandas e dados reais de uma API pública.
+
+**[Ver projetos acadêmicos](https://github.com/gabrielbfurin?tab=repositories)**
+
+---
+
+## Como organizo meus repositórios
+
+Meu GitHub reúne projetos de portfólio, estudos práticos e trabalhos desenvolvidos durante a graduação.
+
+Para facilitar a identificação do contexto de cada repositório, utilizo Topics como:
+
+- `portfolio` — projetos que escolhi para representar meu trabalho e evolução profissional;
+- `learning-project` — projetos desenvolvidos durante meu processo de aprendizado;
+- `academic-project` — projetos e entregas realizados durante a graduação na FIAP;
+- `coursework` — exercícios e atividades desenvolvidos durante disciplinas.
 
 ---
 
